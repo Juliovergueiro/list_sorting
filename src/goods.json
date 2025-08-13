@@ -1,0 +1,15 @@
+[
+  { "id": 9, "color": "#f00", "name": "Potato" },
+  { "id": 2, "color": "#080", "name": "Tomato" },
+  { "id": 3, "color": "#00f", "name": "Broccoli" },
+  { "id": 4, "color": "#f00", "name": "Beans" },
+  { "id": 7, "color": "#080", "name": "Aspargus" },
+  { "id": 6, "color": "#00f", "name": "Chicken" },
+  { "id": 5, "color": "#f00", "name": "Corn" },
+  { "id": 8, "color": "#080", "name": "Pumpkin" },
+  { "id": 10, "color": "#00f", "name": "Lettuce" },
+  { "id": 1, "color": "#f00", "name": "Beet" },
+  { "id": 13, "color": "#f00", "name": "Rice" },
+  { "id": 12, "color": "#080", "name": "Quinoa" },
+  { "id": 11, "color": "#00f", "name": "Chickpea" }
+]

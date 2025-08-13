@@ -1,0 +1,5 @@
+npm install vite react react-dom
+
+npm create vite@latest .
+
+npm install -D sass-embedde
