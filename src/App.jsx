@@ -49,7 +49,6 @@ export const App = () => {
             id
           </button>
           <button onClick={sortByName}>name</button>
-          <button>color</button>
         </div>
       </header>
 
